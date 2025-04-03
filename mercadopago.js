@@ -1,3 +1,4 @@
-let m = "Mercado Pago"
+let m = "Mercado Pago";
+let d = "Devedor";
 
-console.log(m)
+console.log(m, d);
