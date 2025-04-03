@@ -1,4 +1,5 @@
 let m = "Mercado Pago";
+let p = "pagamento";
 let d = "Devedor";
 
-console.log(m, d);
+console.log(m, p, d);
